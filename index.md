@@ -14,3 +14,6 @@ You can reach us at the following contact options:
 <https://github.com/KoenigMaurice>
 
 <https://github.com/koenigmarcel>
+
+__________________
+[Imprint](imprint)
