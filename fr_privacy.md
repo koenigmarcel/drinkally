@@ -1,1 +1,2 @@
-## **Déclaration de confidentialité**
+## **Drinkally**
+### **Déclaration de confidentialité**
