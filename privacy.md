@@ -10,3 +10,6 @@ You can permanently delete the data in the settings at any time. Deleting the ap
 - [Italian (Italiano)](it_privacy)
 - [Russian (Русский)](ru_privacy)
 - [Spanish (Español)](es_privacy)
+
+__________________
+[Imprint](imprint)
