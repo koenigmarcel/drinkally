@@ -1,1 +1,2 @@
-## **Privacy policy**
+## **Drinkally**
+### **Privacy policy**
