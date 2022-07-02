@@ -1,4 +1,4 @@
-### **Drinkally**
+# **Drinkally**
 ## **Privacy**
 
 This app stores all data only locally on your device. The data is neither processed by us, nor by third parties.
