@@ -1,8 +1,8 @@
 # **Drinkally**
 ## **Imprint**
 
-**Marcel König**\
 **Maurice König**\
+**Marcel König**\
 Steinbeißstraße 60/1\
 70839 Gerlingen\
 Germany
